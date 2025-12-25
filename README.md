@@ -5,13 +5,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/836l2k.jpg">
 </p>
-<p align="center">
-<a href="https://github.com/kustbots//frozenvcmusicbot/stargazers"><img src="https://img.shields.io/github/stars/prashantsahlot/frozenvcmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/kustbots//frozenvcmusicbot/network/members"> <img src="https://img.shields.io/github/forks/prashantsahlot/frozenvcmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/kustbots//frozenvcmusicbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-Frozen%20Protect-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/kustbots/frozenvcmusicbot/commits/main"> <img src="https://img.shields.io/github/last-commit/prashantsahlot/frozenvcmusicbot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
+
 
 ---
 
@@ -34,7 +28,9 @@
 <a href="https://railway.app/new/template?template=https://github.com/kustbots/frozenvcmusicbot&plugins=postgresql"><img src="https://img.shields.io/badge/-Deploy%20to%20Railway-cyan?style=for-the-badge&logo=railway"></a>
 <a href="https://heroku.com/deploy?template=https://github.com/kustbots/frozenvcmusicbot"><img src="https://img.shields.io/badge/-Deploy%20to%20Heroku-purple?style=for-the-badge&logo=heroku"></a>
 </p>
-
+<p align="center">
+<a href="https://kuberns.com/deploy?repo=https://github.com/krishnaishere76-bot/krishnapromusic"><img src="https://img.shields.io/badge/-Deploy%20to%20Render-blueviolet?style=for-the-badge&logo=kuberns"></a>
+</p>
 
 
 
