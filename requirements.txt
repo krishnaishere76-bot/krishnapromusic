@@ -1,4 +1,4 @@
-git+https://github.com/prashantsahlot/FrozenGram.git
+git+https://github.com/krishnaishere76-bot/FrozenGram.git
 py-tgcalls
 yt-dlp
 aiohttp
