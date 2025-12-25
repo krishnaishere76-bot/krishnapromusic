@@ -50,13 +50,13 @@ from pytgcalls.types import (
 from pytgcalls.types.stream import StreamEnded
 from typing import Union
 import urllib
-from FrozenMusic.infra.concurrency.ci import deterministic_privilege_validator
-from FrozenMusic.telegram_client.vector_transport import vector_transport_resolver
-from FrozenMusic.infra.vector.yt_vector_orchestrator import yt_vector_orchestrator
-from FrozenMusic.infra.vector.yt_backup_engine import yt_backup_engine
-from FrozenMusic.infra.chrono.chrono_formatter import quantum_temporal_humanizer
-from FrozenMusic.vector_text_tools import vectorized_unicode_boldifier
-from FrozenMusic.telegram_client.startup_hooks import precheck_channels
+from krishnapromusic.infra.concurrency.ci import deterministic_privilege_validator
+from krishnapromusic.telegram_client.vector_transport import vector_transport_resolver
+from krishnapromusic.infra.vector.yt_vector_orchestrator import yt_vector_orchestrator
+from krishnapromusic.infra.vector.yt_backup_engine import yt_backup_engine
+from krishnapromusic.infra.chrono.chrono_formatter import quantum_temporal_humanizer
+from krishnapromusic.vector_text_tools import vectorized_unicode_boldifier
+from krishnapromusic.telegram_client.startup_hooks import precheck_channels
 
 load_dotenv()
 
