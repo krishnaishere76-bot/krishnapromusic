@@ -23,10 +23,8 @@
 ## 💡 Quick Deploy
 
 <p align="center">
-<a href="https://render.com/deploy?repo=https://github.com/kustbots/frozenvcmusicbot"><img src="https://img.shields.io/badge/-Deploy%20to%20Render-blueviolet?style=for-the-badge&logo=render"></a>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/kustbots/frozenvcmusicbot&branch=main&name=frozen-music-bot"><img src="https://img.shields.io/badge/-Deploy%20to%20Koyeb-green?style=for-the-badge&logo=koyeb"></a>
-<a href="https://railway.app/new/template?template=https://github.com/kustbots/frozenvcmusicbot&plugins=postgresql"><img src="https://img.shields.io/badge/-Deploy%20to%20Railway-cyan?style=for-the-badge&logo=railway"></a>
-<a href="https://heroku.com/deploy?template=https://github.com/kustbots/frozenvcmusicbot"><img src="https://img.shields.io/badge/-Deploy%20to%20Heroku-purple?style=for-the-badge&logo=heroku"></a>
+<a href="https://render.com/deploy?repo=https://github.com/krishnaishere76-bot/krishnapromusic"><img src="https://img.shields.io/badge/-Deploy%20to%20Render-blueviolet?style=for-the-badge&logo=render"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/krishnaishere76-bot/krishnapromusic"><img src="https://img.shields.io/badge/-Deploy%20to%20Heroku-purple?style=for-the-badge&logo=heroku"></a>
 </p>
 <p align="center">
 <a href="https://kuberns.com/deploy?repo=https://github.com/krishnaishere76-bot/krishnapromusic"><img src="https://img.shields.io/badge/-Deploy%20to%20kuberns-blackred?style=for-the-badge&logo=kuberns"></a>
@@ -37,7 +35,7 @@
 ## ⚡ One-click Setup
 
 <p align="center">
-<a href="https://github.com/kustbots/frozenvcmusicbot/fork"><img src="https://img.shields.io/badge/-Fork%20Repo-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/krishnaishere76-bot/krishnapromusic/fork"><img src="https://img.shields.io/badge/-Fork%20Repo-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
