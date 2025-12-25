@@ -29,7 +29,7 @@
 <a href="https://heroku.com/deploy?template=https://github.com/kustbots/frozenvcmusicbot"><img src="https://img.shields.io/badge/-Deploy%20to%20Heroku-purple?style=for-the-badge&logo=heroku"></a>
 </p>
 <p align="center">
-<a href="https://kuberns.com/deploy?repo=https://github.com/krishnaishere76-bot/krishnapromusic"><img src="https://img.shields.io/badge/-Deploy%20to%20Render-blueviolet?style=for-the-badge&logo=kuberns"></a>
+<a href="https://kuberns.com/deploy?repo=https://github.com/krishnaishere76-bot/krishnapromusic"><img src="https://img.shields.io/badge/-Deploy%20to%20kuberns-blackred?style=for-the-badge&logo=kuberns"></a>
 </p>
 
 
