@@ -5,6 +5,7 @@ RUN apt-get update && \
 WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
+RUN nslookup -type=SRV _mongodb._tcp.cluster0.0ob4dvz.mongodb.net
 RUN pip install dnspython
 COPY . .
 EXPOSE 8080
